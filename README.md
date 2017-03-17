@@ -4,4 +4,9 @@ https://drdataviz.github.io/DataVizForAll/ <br>
 <p><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/a/hamilton.edu/spreadsheets/d/1E3RD9PrbJOfte9-Yg3lTJd5rCWDa7y0HDjLW9F-SJXQ/pubchart?oid=1000987512&amp;format=interactive"></iframe></p>
 
 <p><iframe src="https://public.tableau.com/shared/KF7G36JMG?:showVizHome=no&:embed=true" width="90%" height="500"></iframe></p>
-<p><iframe src="https://public.tableau.com/views/DataVizChp2Nations/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500"></iframe></p> 
+<p><iframe src="https://public.tableau.com/views/DataVizChp2Nations/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500"></iframe></p>
+
+<h3>Exercises from Week Three</h3>
+<p>The first map is a selection of favorite ski areas from Upstate New York.  The chart uses the provided data.</p>
+<iframe src=”https://drdataviz.github.io/leaflet-map-simple/” width=”90%” height=350></iframe>
+<iframe src=”https://drdataviz.github.io/highcharts-scatter-csv/” width=”90%” height=350></iframe>
